@@ -1,0 +1,65 @@
+
+
+=== NEW UPLOAD REQUEST ===
+2025-09-30 16:20:41
+Token: 9073c1fcc64bcdf4b5b493d2a7a59b38a55a30bf0cb11b742327416f9d1b5c0a
+User ID: 4
+Description: Uploaded from app
+Image data length: 10660
+Decoded image size: 7995 bytes
+Filepath: uploads/68dbe73912909_1759242041.jpg
+Image saved: 7995 bytes
+Image URL: http://192.168.121.100/BcsBangla/uploads/68dbe73912909_1759242041.jpg
+SUCCESS: Photo inserted with ID: 2
+
+
+=== NEW UPLOAD REQUEST ===
+2025-09-30 17:20:31
+Token: 9073c1fcc64bcdf4b5b493d2a7a59b38a55a30bf0cb11b742327416f9d1b5c0a
+User ID: 4
+Description: Edited photo with filter
+Image data length: 13232
+Decoded image size: 9795 bytes
+Filepath: uploads/68dbf53f62588_1759245631.jpg
+Image saved: 9795 bytes
+Image URL: http://192.168.121.100/BcsBangla/uploads/68dbf53f62588_1759245631.jpg
+SUCCESS: Photo inserted with ID: 3
+
+
+=== NEW UPLOAD REQUEST ===
+2025-09-30 17:37:44
+Token: 71e960fcfa2d49f6c7ee8c776f3357491825d324f3f25bc2fccad42a0f36f689
+User ID: 5
+Description: Uploaded from app
+Image data length: 10660
+Decoded image size: 7995 bytes
+Filepath: uploads/68dbf94826a24_1759246664.jpg
+Image saved: 7995 bytes
+Image URL: http://192.168.121.100/BcsBangla/uploads/68dbf94826a24_1759246664.jpg
+SUCCESS: Photo inserted with ID: 4
+
+
+=== NEW UPLOAD REQUEST ===
+2025-09-30 18:02:26
+Token: 71e960fcfa2d49f6c7ee8c776f3357491825d324f3f25bc2fccad42a0f36f689
+User ID: 5
+Description: Uploaded from app
+Image data length: 57628
+Decoded image size: 43220 bytes
+Filepath: uploads/68dbff1281a8e_1759248146.jpg
+Image saved: 43220 bytes
+Image URL: http://192.168.121.100/BcsBangla/uploads/68dbff1281a8e_1759248146.jpg
+SUCCESS: Photo inserted with ID: 5
+
+
+=== NEW UPLOAD REQUEST ===
+2025-09-30 19:23:45
+Token: 71e960fcfa2d49f6c7ee8c776f3357491825d324f3f25bc2fccad42a0f36f689
+User ID: 5
+Description: Uploaded from app
+Image data length: 33432
+Decoded image size: 25072 bytes
+Filepath: uploads/68dc122191241_1759253025.jpg
+Image saved: 25072 bytes
+Image URL: http://192.168.121.100/BcsBangla/uploads/68dc122191241_1759253025.jpg
+SUCCESS: Photo inserted with ID: 6
